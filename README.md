@@ -96,13 +96,6 @@ pip3 install -r requirements.txt --user
 
 Follow the steps for installation given in the official website of [Pytorch](https://pytorch.org).
 
-## About
-
-This project was done by Akshay Kumaar M. Paper is in progress. All the references papers have been included at the end of this repository's README.
-
-## References
-
-Thanks to [Vinoth Arjun](https://github.com/vinotharjun) for giving ideas for custom dataset class with different real-time augmentations.
 
 ## License
 
@@ -120,7 +113,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-### Research Papers
+### Research Papers References
 
 * [Multi-grade brain tumor classification using deep CNN with extensive data augmentation](https://www.sciencedirect.com/science/article/abs/pii/S1877750318307385)
 
