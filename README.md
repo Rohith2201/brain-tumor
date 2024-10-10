@@ -95,7 +95,6 @@ Follow the steps for installation given in the official website of [Pytorch](htt
 
 ## License
 
-Copyright 2020 Akshay Kumaar M
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
